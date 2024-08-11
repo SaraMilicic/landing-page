@@ -1,0 +1,1 @@
+This is project "Landing page" from "Flexbox section" in Oding project, course "Foundations"
